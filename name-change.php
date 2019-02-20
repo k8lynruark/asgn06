@@ -8,7 +8,7 @@
 <html>
 <head>
 	<title>MySQL Query</title>
-	<link rel ="stylesheet" type="text/css" href="sample.css">
+	<link href="../css/styles.css" rel="stylesheet">
 </head>
 
 <body>
